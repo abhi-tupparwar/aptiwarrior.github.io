@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/training/subject", {data:[{}],fetch:{},mutations:[["user\u002FsetIsLoding",true]]});

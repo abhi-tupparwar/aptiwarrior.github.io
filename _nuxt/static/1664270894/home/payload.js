@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/home", {data:[{}],fetch:{},mutations:[["user\u002FsetIsLoding",true]]});
